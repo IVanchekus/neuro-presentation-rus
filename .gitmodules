@@ -4,3 +4,6 @@
 [submodule "web-backend"]
 	path = web-backend
 	url = git@github.com:IVanchekus/neuro-presentation-rus-web-backend.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:IVanchekus/neuro-presentation-rus-docs.git
